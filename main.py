@@ -6,6 +6,7 @@ import webbrowser
 import geocoder
 import subprocess
 
+
 # URL for the API providing information about people in space
 url = "http://api.open-notify.org/astros.json"
 response = urllib.request.urlopen(url)
