@@ -28,7 +28,7 @@ subprocess.run(["open", "iss.txt"])
 
 # Set up the world map in turtle module
 screen = turtle.Screen()
-screen.setup(1280,720)
+screen.setup(1309,720)
 screen.setworldcoordinates(-180,-90,180,90)  # Set world coordinates to longitude/latitude bounds
 
 # Load the world map image
